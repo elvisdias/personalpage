@@ -1,0 +1,34 @@
+.container {
+    margin: 0 auto;
+    width: 100%;
+    padding: 1rem;
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    padding: 1rem;
+    font-family: "apercu",sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    border: 8px solid black;
+    color: black !important;
+}
+.texto{
+    font-family: "apercu",sans-serif;
+    color: black !important;
+    padding-top: 35rem;
+    font-size: 12px;
+}
+.link{
+    color: black !important;
+}
+.content{
+    justify-content: center;
+    position: absolute;
+    margin: 0 auto;
+    flex-grow: 1;
+    text-align: center;
+}

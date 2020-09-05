@@ -1,0 +1,22 @@
+.icon{
+    color: #999999;    
+}
+
+.icon:hover{
+    color:black;
+}
+.icons{
+    margin:auto;
+    display: flex;
+}
+
+.nav-list{
+    display: flex;
+    list-style-type: none;
+    margin: 0 auto 1rem;
+}
+
+.icons > li{
+    padding-left: 10px;
+    padding-right: 10px;
+}

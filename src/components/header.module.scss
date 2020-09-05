@@ -1,0 +1,45 @@
+.container {
+    margin: 0 auto;
+    padding: 1.3rem;
+    display:flex;
+}
+
+.box{
+    border: 3px solid black;
+    padding-top: 7px;
+}
+
+.title{
+    font-family: "apercu",sans-serif;
+    font-weight: 800;
+    font-size: 38px;
+    color:black !important;
+    text-decoration: none;
+}
+
+/*
+.nav-list{
+    display: flex;
+    list-style-type: none;
+    margin:0;
+}
+
+.nav-item {
+    color: #333333;
+    font-size: 1.9rem !important;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 1.3rem;
+    text-decoration: none;
+}
+
+.active-nav-item {
+    font-size: large;
+    color: #333333;
+}
+
+
+.nav-item:hover {
+    color: #666666
+}
+*/
