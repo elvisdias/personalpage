@@ -5,8 +5,6 @@
   <a href="elvisdias.me">elvisdias.me</a>
 </h3>
 
-I've managed to create this personal page to be a home enterily designed and thoughtout, even though I just need to present myself. I'm not experienced with front-end development, but the urge to express myself digitally made me learn as needed. The main idea here is to keep the home page stalled, making small changes when actually needed. Whereas the Laboratory page is thoughtout to be a ... laboratory for my JS studys, so don't expect much sense or estability from it, just creation.
+I've managed to create this personal page to be my enterily designed and thoughtout online home. I'm not experienced with web development whatsoever, but the idea here is to have a place to present anything I feel like, from a stalled home page. Do not expect much sense or estability from it, just creation.
 
 I hope I can keep up! :sparkles:
-
-This website is currently developed with the help from GatsbyJS and some ReactJS. 
