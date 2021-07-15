@@ -9,7 +9,7 @@ const Footer = () => {
                 <ul className={footerStyles.navList}>
                     <div className={footerStyles.icons}>
                         <li>
-                            <a href='https://twitter.com/nthkn' target="_blank"><FaTwitter className={footerStyles.icon} /></a>
+                            <a href='https://twitter.com/_elvisdias_' target="_blank"><FaTwitter className={footerStyles.icon} /></a>
                         </li>
                         <li>
                             <a href='https://www.linkedin.com/in/elvis-dias/' target="_blank" ><FaLinkedin className={footerStyles.icon}/></a>

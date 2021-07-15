@@ -38,9 +38,9 @@ class IndexPage extends React.Component {
               <Head title="en"/>
               <div style={this.divStyle}>
                   <h4>Hello, </h4> 
-                  <h4>I'm <span class="highlight">Elvis</span>, a 25 years old just graduated computer engineer <span class="highlight">working with data</span> and wanting to express myself over some web development self taught. </h4>
+                  <h4>I'm a 26 years old computer engineer by formation, currently working as a <span class="highlight">data scientist/software engineer</span> and optimizing myself to learn and express anything I gravitate to. </h4>
                   <h4>
-                  Thus, I've created <Link class='lab' to='/laboratory'>my laboratory</Link>, a place for experimenting without rules. Also, I'm active on those social medias below.
+                  This is my home and thus has been thought out to reflect whatever I feel like putting out. For my playground I should be at <Link class='lab' to='/laboratory'>my laboratory</Link> anytime. Also, I'm kind of active on the social medias below.
                   </h4>
               </div>        
           </Layout>
@@ -56,9 +56,9 @@ class IndexPage extends React.Component {
             <Head title="pt"/>
             <div style={this.divStyle}>
                 <h4>Olá, </h4> 
-                <h4>Sou <span class="highlight">Elvis</span>, um engenheiro de computação de 25 anos recém formado <span class="highlight">trabalhando com dados</span> e tentando me expressar com desenvolvimento web autodidata. </h4>
+                <h4>Sou um engenheiro de computação por formação, tenho 26 anos, atualmente trabalhando como <span class="highlight">cientista de dados/engenheiro de software</span> e me otimizando para conseguir aprender e expressar qualquer coisa que eu me sinta atraído. </h4>
                 <h4>
-                 Assim, criei <Link class='lab' to='/laboratory'>meu laboratório</Link>, um lugar para que eu possa experimentar sem regras. Também sou ativo nas redes sociais abaixo. 
+                 Esse é meu lar, e assim, foi pensado para refletir qualquer coisa que eu sinta que deva colocar para o mundo. Para experimentações eu devo estar no <Link class='lab' to='/laboratory'>meu laboratório</Link> a qualquer momento. Também, sou meio que ativo nas redes sociais abaixo. 
                 </h4>
             </div>        
         </Layout>
